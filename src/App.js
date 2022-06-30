@@ -7,7 +7,7 @@ import New from "./pages/new/New";
 
 function App() {
   return (
-    <div className="home">
+    <div>
       <BrowserRouter>
         <Routes>
           <Route path="/">
