@@ -42,6 +42,7 @@ const Navbar = () => {
             <img
               src="https://pbs.twimg.com/profile_images/1507783683184410628/JWdn7D73_400x400.jpg"
               className="avatar"
+              alt="profile-pic"
             />
           </div>
         </div>
