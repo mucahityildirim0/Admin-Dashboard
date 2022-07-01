@@ -6,7 +6,7 @@ import AccountBalanceWalletOutlinedIcon from "@mui/icons-material/AccountBalance
 import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import MonetizationOnOutlinedIcon from "@mui/icons-material/MonetizationOnOutlined";
 
-const widget = ({ type }) => {
+const Widget = ({ type }) => {
   let data;
 
   //temropary
@@ -100,4 +100,4 @@ const widget = ({ type }) => {
   );
 };
 
-export default widget;
+export default Widget;

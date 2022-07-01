@@ -3,6 +3,9 @@ import "./home.scss";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";
 import Widget from "../../components/widget/widget";
+import Featured from "../../featured/Featured";
+import Chart from "../../chart/Chart";
+import Table from "../../components/table/Table";
 
 const Home = () => {
   return (
@@ -16,7 +19,14 @@ const Home = () => {
           <Widget type="earning" />
           <Widget type="balance" />
         </div>
-        <div className="charts"></div>
+        <div className="charts">
+          <Featured />
+          <Chart />
+        </div>
+        <div className="listContainer">
+          <div className="listTitle">Latest Transactions</div>
+          <Table />
+        </div>
       </div>
     </div>
   );
