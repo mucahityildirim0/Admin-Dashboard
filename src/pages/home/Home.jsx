@@ -3,8 +3,8 @@ import "./home.scss";
 import Sidebar from "../../components/sidebar/Sidebar";
 import Navbar from "../../components/navbar/Navbar";
 import Widget from "../../components/widget/widget";
-import Featured from "../../featured/Featured";
-import Chart from "../../chart/Chart";
+import Featured from "../../components/featured/Featured";
+import Chart from "../../components/chart/Chart";
 import Table from "../../components/table/Table";
 
 const Home = () => {
