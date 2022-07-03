@@ -21,7 +21,7 @@ const New = ({ inputs, title }) => {
               src={
                 file
                   ? URL.createObjectURL(file)
-                  : "https://icon-library.com/images/no-image-icon/no-image-icon-0.jpg"
+                  : "https://www.sporthink.com.tr/UserFiles/ProductImages/0/ka381g6xwe/orj/kappa-erkek-ayakkabi-logo-seattle-001-149861.jpg"
               }
               alt="photo"
             />
