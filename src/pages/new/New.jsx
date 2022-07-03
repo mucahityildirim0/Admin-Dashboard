@@ -23,7 +23,7 @@ const New = ({ inputs, title }) => {
                   ? URL.createObjectURL(file)
                   : "https://www.sporthink.com.tr/UserFiles/ProductImages/0/ka381g6xwe/orj/kappa-erkek-ayakkabi-logo-seattle-001-149861.jpg"
               }
-              alt="photo"
+              alt="fotoimg"
             />
           </div>
           <div className="right">
