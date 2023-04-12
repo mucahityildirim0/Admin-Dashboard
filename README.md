@@ -1,4 +1,4 @@
-# RECİPES-WEBSİTE / (DARK MODE )
+# ADMIN-PANEL / (DARK MODE )
 
 This is an Admin Dashboard website. 
 
