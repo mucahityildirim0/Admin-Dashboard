@@ -6,7 +6,7 @@ This is an Admin Dashboard website.
 ## TECHNOLOGIES/PACKAGES/TEMPLATE I USE
 * Javascript
 * Flex
-* Recharts library for chart. https://www.npmjs.com/package/recharts (The main purpose of this library is to help you to write charts in React applications without any pain.)
+* Recharts library for chart. https://www.npmjs.com/package/recharts (The main purpose of this library is to help you to write charts in React applications.)
 * MUI React component lıbrary. For some react uı tools.
 * Context API for Dark Mode ( createContext , useReducer )
 * and react-router-dom for link
