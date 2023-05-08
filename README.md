@@ -1,9 +1,11 @@
-# ADMIN-PANEL / (DARK MODE )
-
-This is an Admin Dashboard website. 
 
 
-## TECHNOLOGIES/PACKAGES/TEMPLATE I USE
+# Admin-Dashboard (Dark Mode)
+
+This is an Admin-Dashboard website. Click demo to try it by yourself!
+
+
+## Topics
 * Javascript
 * Flex
 * Recharts library for chart. https://www.npmjs.com/package/recharts (The main purpose of this library is to help you to write charts in React applications.)
@@ -13,7 +15,7 @@ This is an Admin Dashboard website.
 
 
 
-##  <a href="https://starlit-souffle-341996.netlify.app/" target="_blank" alt="demo link">Demo Link: CLİCK ME </a>
+####  You can view the site here <a href="https://starlit-souffle-341996.netlify.app/" target="_blank" alt="demo link">Click Me </a>
 
 ## Screenshots:
 ![image](https://user-images.githubusercontent.com/72821281/204086751-26e09575-13b6-4ee3-a84a-9008dfa9126e.png)
